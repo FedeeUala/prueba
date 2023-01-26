@@ -1,10 +1,5 @@
-<h1>Hola Mundo22</h2>
+def holamundo():
+    print("Hola Mundo Fede")
 
 
-<br>12</br>
-asdsad
-<br>12</br>
-
-<br>12</br>
-asd
-<br>12</br>sdsdsds
+holamundo()    
